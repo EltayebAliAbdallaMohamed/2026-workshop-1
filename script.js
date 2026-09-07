@@ -19,6 +19,21 @@
   const srAnnounce = document.getElementById('srAnnounce');
 
   let current = 0;
+  let isMobile = window.innerWidth < 1024;
+
+  // Detect screen size changes
+  window.addEventListener('resize', ()=>{
+    isMobile = window.innerWidth < 1024;
+    updateThumbailsVisibility();
+  });
+
+  function updateThumbailsVisibility(){
+    if(isMobile){
+      thumbnails.classList.remove('visible');
+    } else {
+      thumbnails.classList.add('visible');
+    }
+  }
 
   // Build thumbnails
   slides.forEach((s,i)=>{
@@ -30,6 +45,8 @@
     t.setAttribute('aria-label', 'Go to slide ' + (i+1));
     thumbnails.appendChild(t);
   });
+
+  updateThumbailsVisibility();
 
   function updateThumbnails(){
     const thumbs = Array.from(thumbnails.children);
@@ -58,7 +75,13 @@
     // update notes
     const n = slides[current].dataset.notes || 'No notes for this slide.';
     notesContent.innerText = n;
-    notesPanel.setAttribute('aria-hidden', notesToggle.getAttribute('aria-pressed') === 'false' ? 'true' : 'false');
+    const notesVisible = notesToggle.getAttribute('aria-pressed') === 'true';
+    notesPanel.setAttribute('aria-hidden', !notesVisible ? 'true' : 'false');
+    if(notesVisible){
+      notesPanel.classList.add('visible');
+    } else {
+      notesPanel.classList.remove('visible');
+    }
     updateThumbnails();
   }
 
@@ -112,11 +135,11 @@
     const pressed = notesToggle.getAttribute('aria-pressed') === 'true';
     notesToggle.setAttribute('aria-pressed', String(!pressed));
     if(!pressed){
-      notesPanel.style.display = 'block';
+      notesPanel.classList.add('visible');
       notesPanel.setAttribute('aria-hidden','false');
       notesToggle.classList.add('active');
     } else {
-      notesPanel.style.display = 'none';
+      notesPanel.classList.remove('visible');
       notesPanel.setAttribute('aria-hidden','true');
       notesToggle.classList.remove('active');
     }
