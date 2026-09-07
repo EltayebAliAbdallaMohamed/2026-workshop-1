@@ -1,0 +1,208 @@
+{
+  "presentation": {
+    "title": "The Role of Verbs in Vocabulary Learning",
+    "subtitle": "Why Q Skills Word Lists Should Include More Verbs",
+    "author": "Eltayeb Ali Abdalla Mohamed - Teacher of the Visually Impaired",
+    "course": "Q Skills Intro, Section 6688",
+    "university": "King Saud University"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "Title",
+      "type": "title",
+      "heading": "The Role of Verbs in Vocabulary Learning",
+      "subheading": "Why Q Skills Word Lists Should Include More Verbs",
+      "meta": "Eltayeb Ali Abdalla Mohamed — Teacher of Visually Impaired Students, Section 6688",
+      "notes": "Opening slide. Welcome your audience and introduce the topic of verbs in vocabulary learning."
+    },
+    {
+      "id": 2,
+      "title": "Background",
+      "type": "content",
+      "heading": "Background",
+      "content": [
+        "Q Skills for Success (Oxford University Press) provides <strong>key vocabulary lists</strong> in the vocabulary section of the unit, and at the back of each textbook. However, these lists often contain <strong>very few verbs - about 20% in Q Skills Intro</strong>.",
+        "This presentation argues that adding more high-frequency verb-noun collocations to both the vocabulary section and at the back of the book would strengthen vocabulary instruction and improve learner outcomes."
+      ],
+      "notes": "Explain what Q Skills for Success is and why verb inclusion matters. Discuss the current composition of word lists."
+    },
+    {
+      "id": 3,
+      "title": "Why This Matters",
+      "type": "content",
+      "heading": "Why This Matters",
+      "content": [
+        "For language learners—especially visually impaired students—verbs are <strong>powerful cognitive anchors</strong>. They help students:"
+      ],
+      "bullets": [
+        "Identify <strong>the role</strong> of an unfamiliar noun",
+        "Predict <strong>the general category</strong> of meaning",
+        "Understand <strong>how the noun behaves</strong> in real contexts",
+        "Build <strong>mental models</strong> of events and actions"
+      ],
+      "notes": "Emphasize importance for all learners, especially visually impaired students. Explain how verbs serve as cognitive scaffolds."
+    },
+    {
+      "id": 4,
+      "title": "Verbs Provide Context",
+      "type": "content",
+      "heading": "Verbs Provide Context",
+      "content": [
+        "When learners hear a sentence like:"
+      ],
+      "bullets": [
+        "\"She <strong>wears</strong> a ___.\""
+,
+        "\"He <strong>drives</strong> a ___.\""
+,
+        "\"They <strong>cook</strong> the ___.\""
+      ],
+      "contentAfter": [
+        "The <strong>verb</strong> immediately narrows the possibilities and helps listening comprehension."
+      ],
+      "notes": "Use cloze examples to show how verbs guide meaning prediction. Ask audience to try predicting the nouns."
+    },
+    {
+      "id": 5,
+      "title": "Verbs Reveal Word Function",
+      "type": "content",
+      "heading": "Verbs Reveal Word Function",
+      "content": [
+        "Verbs tell learners <strong>how the unknown noun participates</strong> in an action:"
+      ],
+      "bullets": [
+        "Is it something you <strong>hold</strong>?",
+        "Something you <strong>visit</strong>?",
+        "Something you <strong>eat</strong>?",
+        "Something you <strong>fix</strong>?"
+      ],
+      "notes": "Explain how verbs reveal the grammatical and semantic role of nouns. Emphasize the importance of selectional restrictions."
+    },
+    {
+      "id": 6,
+      "title": "Cognitive Benefits",
+      "type": "content",
+      "heading": "Cognitive Benefits",
+      "bullets": [
+        "Activate <strong>semantic networks</strong>",
+        "Improve <strong>memory retention</strong>",
+        "Strengthen <strong>contextual guessing skills</strong>",
+        "Support <strong>top-down processing</strong> during listening"
+      ],
+      "contentAfter": [
+        "For visually impaired learners, verbs provide <strong>auditory scaffolding</strong> that replaces missing visual cues."
+      ],
+      "notes": "Reference cognitive science research on semantic networks and memory. Discuss auditory scaffolding for visually impaired learners."
+    },
+    {
+      "id": 7,
+      "title": "Problem in Q Skills",
+      "type": "content",
+      "heading": "Problem in Q Skills",
+      "bullets": [
+        "Focus heavily on <strong>nouns and adjectives</strong>",
+        "Provide <strong>limited action vocabulary</strong>",
+        "Reduce opportunities for <strong>context-based inference</strong>",
+        "Make listening tasks harder for beginners"
+      ],
+      "notes": "Point out contradictions between Q Skills word lists and best practices in vocabulary instruction. Explain the gaps."
+    },
+    {
+      "id": 8,
+      "title": "Example: Weak Context",
+      "type": "content",
+      "heading": "Example: Weak Context",
+      "content": [
+        "Word list:"
+      ],
+      "bullets": [
+        "apartment",
+        "neighbor",
+        "noise"
+      ],
+      "contentAfter": [
+        "Without verbs, students struggle to understand what happens or how these nouns relate."
+      ],
+      "notes": "Show why noun-only lists are insufficient. Ask audience to imagine understanding this context without verbs."
+    },
+    {
+      "id": 9,
+      "title": "Example: Strong Context",
+      "type": "content",
+      "heading": "Example: Strong Context",
+      "content": [
+        "Add verbs:"
+      ],
+      "bullets": [
+        "live",
+        "complain",
+        "hear"
+      ],
+      "contentAfter": [
+        "Now learners can infer relationships: people <strong>live</strong> in apartments; neighbors may <strong>complain</strong>; you <strong>hear</strong> noise."
+      ],
+      "notes": "Add verbs to demonstrate stronger context and meaningful relationships between words. Show the power of verb-noun collocations."
+    },
+    {
+      "id": 10,
+      "title": "Recommendation",
+      "type": "content",
+      "heading": "Recommendation",
+      "bullets": [
+        "Add <strong>high-frequency verbs</strong> to each unit's word list",
+        "Pair nouns with <strong>typical collocating verbs</strong>",
+        "Include verbs in <strong>listening pre-teaching</strong>",
+        "Provide <strong>verb-noun frames</strong> (e.g., wear + clothing)"
+      ],
+      "notes": "Present specific recommendations to Oxford University Press about incorporating more verbs into Q Skills. Be concrete and actionable."
+    },
+    {
+      "id": 11,
+      "title": "Classroom Application",
+      "type": "content",
+      "heading": "Classroom Application",
+      "bullets": [
+        "Introduce verbs before nouns",
+        "Use guiding questions (e.g., \"What do you usually wear?\")",
+        "Create verb-based cloze listening tasks",
+        "Encourage guessing nouns from actions"
+      ],
+      "notes": "Provide practical classroom strategies for teachers to implement verb-focused instruction immediately."
+    },
+    {
+      "id": 12,
+      "title": "Impact on Learners",
+      "type": "content",
+      "heading": "Impact on Learners",
+      "bullets": [
+        "Improved listening comprehension",
+        "Better vocabulary retention",
+        "Stronger contextual guessing",
+        "Increased confidence and accessibility"
+      ],
+      "notes": "Summarize the expected positive outcomes from verb-enhanced vocabulary instruction."
+    },
+    {
+      "id": 13,
+      "title": "Conclusion",
+      "type": "content",
+      "heading": "Conclusion",
+      "content": [
+        "Verbs are <strong>not optional</strong> in vocabulary learning. They are essential scaffolds that help learners infer meaning, categorize new words, and understand real-world usage. Q Skills should integrate verbs as a core component of vocabulary instruction."
+      ],
+      "notes": "Close with a strong, memorable call-to-action for incorporating verbs into vocabulary instruction."
+    },
+    {
+      "id": 14,
+      "title": "Thank You",
+      "type": "content",
+      "heading": "Thank You",
+      "content": [
+        "Questions or discussion"
+      ],
+      "meta": "Prepared by: Eltayeb Mohamed — Q Skills Intro, King Saud University",
+      "notes": "Invite questions and open discussion. Be prepared to discuss implementation challenges and benefits."
+    }
+  ]
+}
